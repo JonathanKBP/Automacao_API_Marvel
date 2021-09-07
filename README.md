@@ -1,4 +1,6 @@
-# Automação API Marvel
+<h1 align="center">
+  Automação API Marvel
+</h1>
 
 <h3 align="center">
   <a href="#-sobre">Sobre</a>&nbsp;|&nbsp;
