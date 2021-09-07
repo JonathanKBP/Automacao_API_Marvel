@@ -1,7 +1,5 @@
 # Automação API Marvel
 
-# Teste web com Robot Framework
-
 <h3 align="center">
   <a href="#-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;|&nbsp;
